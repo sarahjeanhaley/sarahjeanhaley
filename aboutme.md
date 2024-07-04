@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm the proud mother of a beautiful girl, a testament to years of resilience and determination. My journey began with a diagnosis of unexplained infertility, leading to a path of IVF after enduring numerous losses and failed treatments. This experience has ignited a fierce passion within me for advocating women's health and ensuring equitable access to infertility treatments. Having built my own family through this journey, I'm committed to empowering others to achieve the same.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Outside of this meaningful advocacy, I'm an avid supporter of the Boston Celtics! I enjoy going to almost any professional sporting event. I'd love to travel to all MLB stadiums! My fantasy football team may not always win the league championship, but I'll persevere every year!
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Additionally, I have a deep love for travel, always seeking out new destinations to immerse myself in diverse experiences. Of course, who can resist the allure of a classic beach vacation? It's a perfect blend of relaxation and exploration that I cherish whenever I can.
